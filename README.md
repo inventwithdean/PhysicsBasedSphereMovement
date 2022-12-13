@@ -2,7 +2,7 @@
 An approach to pure physics based sphere movement using C++ in Unreal Engine.
 ## Key Features:
 ### Movement
-Pure physics motion by WASD keys in direction where player is looking. Ball can Jump by Space Bar and dash by Left Shift Key
+Pure physics movement by WASD keys in direction where player is looking. Ball can Jump by Space Bar and dash by Left Shift Key
 ### Magnetism
 Level Ball Bearings are attracted to Goals by tolerated distance.
 ### Debugging HUD
